@@ -21,13 +21,26 @@
         {
             "id": "M-CFNR2",
             "name": "Ragim Shrestha",
-            "email": "akarsh@gmail.com",
+            "email": "ragim@gmail.com",
             "borrowed": []
         },
         {
             "id": "M-TIKWR",
             "name": "Ram Shrestha",
-            "email": "harsh77@gmail.com",
+            "email": "ram@gmail.com",
+            "borrowed": [
+                {
+                    "book_id": "B-ZU33N",
+                    "title": "Breaking Bad",
+                    "borrow_on": "2025-10-13 21:52:41"
+                }
+            ]
+        }
+
+        {
+            "id": "M-ANKPT",
+            "name": "Hari Shrestha",
+            "email": "hari@gmail.com",
             "borrowed": [
                 {
                     "book_id": "B-ZU33N",
