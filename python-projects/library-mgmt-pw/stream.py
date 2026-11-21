@@ -7,7 +7,7 @@ from pathlib import Path
 from datetime import datetime
 
 # ---------- Config ----------
-DATABASE = Path("library.json")
+DATABASE = Path("data/library.json")
 
 # ---------- Helpers ----------
 def gen_id(prefix="B"):
