@@ -3,15 +3,15 @@
         {
             "id": "B-JP0ZO",
             "title": "Game of thrones",
-            "author": "Manish Shrestha",
+            "author": "George R. R. Martin",
             "total_copies": 30,
             "available_copies": 30,
             "added_on": "2025-10-13 20:42:49"
         },
         {
             "id": "B-ZU33N",
-            "title": "Breaking Bad",
-            "author": "Shubham Shrestha",
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
             "total_copies": 25,
             "available_copies": 24,
             "added_on": "2025-10-13 20:43:26"
@@ -20,8 +20,8 @@
     "members": [
         {
             "id": "M-CFNR2",
-            "name": "Ragim Shrestha",
-            "email": "ragim@gmail.com",
+            "name": "Shyam Manandhar",
+            "email": "shyam@gmail.com",
             "borrowed": []
         },
         {
